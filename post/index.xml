@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Data Science Portfolio</title>
+    <title>Projects on David Thor</title>
     <link>https://davidindata.github.io/David_Portfolio/post/</link>
-    <description>Recent content in Projects on Data Science Portfolio</description>
+    <description>Recent content in Projects on David Thor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidindata.github.io/David_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Digit Recognizer - Computer Vision with MNIST data</title>
+      <title>Digit Recognizer</title>
       <link>https://davidindata.github.io/David_Portfolio/post/chapter-4/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://davidindata.github.io/David_Portfolio/post/chapter-4/</guid>
-      <description>  Predict over 40,000 handwritten digits
-  Utilized variety of models including MLP, CNN, PCA.
-  Performed PCA to obtain components accounting for 75 % of the total variation
-  Accuracy score of 98% on test data    Click HERE for the full analysis of PCA and K-Means Clustering
-  Click HERE for the full analysis of MLP &amp;amp; CNN
-  </description>
+      <description>Kaggle Dataset of more than 40,000 handwritten digits
+  Utilized GridSearchCV for model tuning optimization
+  Performed Princial Component Analysis (PCA) to account for 75% of total variation
+  Designed Experiments with Multilayer Peceptron (MLP) and Convolutional Neural Networks (CNN)
+  Analysis using different Activation Methods and Hidden Layers
+  Accuracy score of 98% on test data
+  Click HERE for the full analysis of PCA and K-Means Clustering</description>
     </item>
     
     <item>
@@ -27,10 +28,11 @@
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://davidindata.github.io/David_Portfolio/post/chapter-5/</guid>
-      <description>  Predict Tweets are about real disasters
-  Analysis with and without pre-trained word embeddings
-  Utilized recurrent neural network with birectional LSTM
-  Scored top 16% on Kaggle Leaderboard    Click HERE for the full analysis
+      <description>  Kaggle Dataset with over 7600 tweets
+  Utilized pre-processing techniques such as Tokenization and Padding
+  Designed Experiment with/without pre-trained word embeddings (GloVe) using Recurrent Neural Network (RNN) with birectional LSTM
+  Scored top 16% on Kaggle Leaderboard
+  Click HERE for the full analysis
   </description>
     </item>
     
@@ -40,12 +42,13 @@
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://davidindata.github.io/David_Portfolio/post/chapter-2/</guid>
-      <description>  Predict home prices in Ames, Iowa
-  Dataset with over 79 features
-  Encoding categocial feautres
-  Utilized regularizatino methods (Ridge, Lasso, ElasticNet)
-  Scored top 11% on Kaggle Competition    Click HERE for the full analysis
-  </description>
+      <description>  Analyzed over 1400 home sales with over 80 features
+  Utilized data transformation techniques including One-Hot Encoding and Standardization
+  K-Fold cross validation with GridSearchCV for hyperparameter optimization
+  Utilized regularization methods such as Ridge, Lasso, and ElasticNet
+  Scored top 11% on Kaggle
+  Click HERE for the full analysis
+   </description>
     </item>
     
     <item>
@@ -54,25 +57,27 @@
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://davidindata.github.io/David_Portfolio/post/chapter-3/</guid>
-      <description>  Predict survival on the Titanic
-  Utilized gridsearchCV for optimal hyperparametersgradient
-  Analysis using gradient boosting, Random Forest, logistic regression, LDA and KNN
-  Scored top 16% on Kaggle Competition    Click HERE for the full analysis using Random Forest
-  Click HERE for the full analysis using Logistic Regression, LDA and K-Nearest Neighbor
-  </description>
+      <description>Kaggle Dataset with over 800 Passengers and 11 features
+  EDA/Pre-Processing techniques addressing missing values, data imputation, feature engineering
+  Utilized GridSearchCV for model optimizatiion
+  Analysis using different models such as Gradient Boosting, Random Forest, Logistic regression and more..
+  Scored top 16% on Kaggle
+  Click HERE for the full analysis using Random Forest
+  Click HERE for the full analysis using Logistic Regression, LDA and K-Nearest Neighbor</description>
     </item>
     
     <item>
-      <title>EDA Lead-Time Analysis</title>
+      <title>EDA Lead-Time/OTD Analysis</title>
       <link>https://davidindata.github.io/David_Portfolio/post/chapter-1/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://davidindata.github.io/David_Portfolio/post/chapter-1/</guid>
-      <description>  Does distance have a factor on lead-time (On-Time Delivery)?
-  Performed EDA on anonymized supplier receipt data
-  Parts that were shipped within 100 miles were late on average of 1 day
-  Parts more than 300 miles averaged 2.7 days
-  Parts between 100-300 miles averaged 3.5 days    Click HERE for the full analysis
+      <description>  Does distance have a factor on a Supplier&amp;rsquo;s On-Time Delivery?
+  In-depth Exploratory Data Analysis (EDA) on approximately 90000 Purchase Orders
+  Various data cleansing techniques such as addressing outliers and missing values
+  Feature Engineered Lead-Times, Distances, Receiving Quantites
+  Interpretations using HeatMap, Pairplot and more&amp;hellip;
+  Click HERE for the full analysis
   </description>
     </item>
     
