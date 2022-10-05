@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science Portfolio on David Thor</title>
+    <title>IT Portfolio on David Thor</title>
     <link>https://davidindata.github.io/David_Portfolio/</link>
-    <description>Recent content in Data Science Portfolio on David Thor</description>
+    <description>Recent content in IT Portfolio on David Thor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidindata.github.io/David_Portfolio/index.xml" rel="self" type="application/rss+xml" />
@@ -19,7 +19,7 @@
   Designed Experiments with Multilayer Peceptron (MLP) and Convolutional Neural Networks (CNN)
   Analysis using different Activation Methods and Hidden Layers
   Accuracy score of 98% on test data
-  Click HERE for the full analysis of PCA and K-Means Clustering</description>
+  Click HERE for the source code of PCA and K-Means Clustering</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@
   Utilized pre-processing techniques such as Tokenization and Padding
   Designed Experiment with/without pre-trained word embeddings (GloVe) using Recurrent Neural Network (RNN) with birectional LSTM
   Scored top 16% on Kaggle Leaderboard
-  Click HERE for the full analysis
+  Click HERE for the source code
   </description>
     </item>
     
@@ -47,7 +47,7 @@
   K-Fold cross validation with GridSearchCV for hyperparameter optimization
   Utilized regularization methods such as Ridge, Lasso, and ElasticNet
   Scored top 11% on Kaggle
-  Click HERE for the full analysis
+  Click HERE for the source code
    </description>
     </item>
     
@@ -62,8 +62,8 @@
   Utilized GridSearchCV for model optimizatiion
   Analysis using different models such as Gradient Boosting, Random Forest, Logistic regression and more..
   Scored top 16% on Kaggle
-  Click HERE for the full analysis using Random Forest
-  Click HERE for the full analysis using Logistic Regression, LDA and K-Nearest Neighbor</description>
+  Click HERE for the source code using Random Forest
+  Click HERE for the source code using Logistic Regression, LDA and K-Nearest Neighbor</description>
     </item>
     
     <item>
@@ -77,7 +77,7 @@
   Various data cleansing techniques such as addressing outliers and missing values
   Feature Engineered Lead-Times, Distances, Receiving Quantites
   Interpretations using HeatMap, Pairplot and more&amp;hellip;
-  Click HERE for the full analysis
+  Click HERE for the source code
   </description>
     </item>
     
@@ -87,7 +87,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://davidindata.github.io/David_Portfolio/about/</guid>
-      <description>My name is David Thor and I am a Data Scientist! I strive to make a difference in the world and I believe data-driven decisions. I am highly motivated and driven to go above and beyond in any project. I am extremely passionate about data and would love the opportunity to provide any meaningful insights for your organization. Feel free to reach out and thank you for visiting!</description>
+      <description>My name is David Thor. I strive to make a difference in the world and I believe data-driven decisions. I am highly motivated and driven to go above and beyond in any project. I am extremely passionate about data and would love the opportunity to provide any meaningful insights for your organization. Feel free to reach out and thank you for visiting!</description>
     </item>
     
     <item>
